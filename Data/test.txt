@@ -1,0 +1,7 @@
+This is test file
+we are going to learn Selenium
+We have learn java
+going to complete this program
+programming=java
+automation=selenium
+application_url=facebook.com
